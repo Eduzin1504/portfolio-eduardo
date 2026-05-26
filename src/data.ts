@@ -1,4 +1,5 @@
 import { Tool, Project, CareerItem } from './types';
+import profileImgUrl from './assets/images/profile_img_1779763702973.png';
 
 export const PERSONAL_INFO = {
   name: "EDUARDO MACIEL",
@@ -12,7 +13,7 @@ export const PERSONAL_INFO = {
     "Sou Eduardo Hirohito Izawa Maciel, estudante de Engenharia de Software com interesse em desenvolvimento full stack, cybersecurity, inteligência artificial e produtos digitais. Gosto de transformar problemas em soluções bem estruturadas, unindo visão técnica, estratégia e design.",
     "Tenho foco em aprender continuamente, construir projetos com impacto real e desenvolver soluções modernas, funcionais e escaláveis."
   ],
-  profileImg: "/src/assets/images/profile_img_1779763702973.png",
+  profileImg: profileImgUrl,
   systemVersion: "2.0.4-STABLE"
 };
 
